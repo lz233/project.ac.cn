@@ -6,8 +6,8 @@ The following are currently available project.
 
 
 
-|         Project         |               Path               |
-| :---------------------: | :------------------------------: |
-|     Meizu Gravity +     | [gravity](gravity.project.ac.cn) |
-| Netease Cloud Music API | [netease](netease.project.ac.cn) |
-|     Fish's OneDrive     |   [drive](drive.project.ac.cn)   |
+|         Project         |                   Path                   |
+| :---------------------: | :--------------------------------------: |
+|     Meizu Gravity +     | [gravity](https://gravity.project.ac.cn) |
+| Netease Cloud Music API | [netease](https://netease.project.ac.cn) |
+|     Fish's OneDrive     |   [drive](https://drive.project.ac.cn)   |
