@@ -12,4 +12,5 @@ The following are available paths.
 |         Tarnhelm         |     [tarnhelm](https://tarnhelm.project.ac.cn)     |
 | Allwinner A50 Calculator | [allwinnera50](https://allwinnera50.project.ac.cn) |
 |       Google Glass       |        [glass](https://glass.project.ac.cn)        |
+|        Emblematix        |   [emblematix](https://emblematix.project.ac.cn)   |
 
